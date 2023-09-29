@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-XP162)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-XP162)
 
-# Session ID - Session Title
+# XP162 - Get Started with SAP BTP Leveraging SAP Discovery Center
 
 ## Description
 
