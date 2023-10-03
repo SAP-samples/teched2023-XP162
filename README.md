@@ -1,10 +1,10 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-XP162)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-XP162)
 
-# XP162 - Get Started with SAP BTP Leveraging SAP Discovery Center
+# XP162 - Get Started with SAP BTP Leveraging SAP Discovery Center.
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called XP162 - Get Started with SAP BTP Leveraging SAP Discovery Center
+This repository contains the material for the SAP TechEd 2023 session called XP162 - Get Started with SAP BTP Leveraging SAP Discovery Center.
 
 ## Overview
 
