@@ -33,7 +33,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
   
-**OR** Link to the Tutorial Navigator for example...
+**OR** Link to the Tutorial Navigator for example..
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
