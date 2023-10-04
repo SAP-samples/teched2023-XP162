@@ -10,9 +10,15 @@ This repository contains the material for the SAP TechEd 2023 session called XP1
 
 This session introduces attendees to 'SAP Discovery Center' and how they can use it to adopt and get hands on with SAP Business Technology Platform and business scenario built on top of it. 
 
+In this hands-on SAP Discovery Center supports you in effectively working with SAP Business Technology Platform (SAP BTP) and its business services. You will be enabled to take your first steps with SAP BTP guided by a mission providing all relevant technical information. The goal of the exercises is to create a simple 'Hello World' application using SAPUI5/ SAP Fiori running on SAP BTP leveraging SAP Business Application Studio, Cloud Foundry runtime, and SAP Build Work Zone, standard edition (former SAP Launchpad Service) - all based on a SAP Discovery Center mission that will guide you through the tasks.
+
 ## Requirements
 
-The requirements to follow the exercises in this repository are a valid SAP Community user. Other pre requisites are mentioned in SAP Discovery Center. 
+The requirements to follow the exercises in this repository are a valid SAP Community user. You will also need a SAP BTP trial account with entitlements to SAP Business Application Studio and SAP Build Work Zone, standard edition (former SAP Launchpad Service).
+
+## Prerequisites
+
+[Register](https://discovery-center.cloud.sap/index.html) at SAP Discovery Center by doing the following steps: SAP Discovery Center registration
 
 ## Exercises
 
