@@ -8,11 +8,11 @@ This repository contains the material for the SAP TechEd 2023 session called XP1
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to 'SAP Discovery Center' and how they can use it to adopt and get hands on with SAP Business Technology Platform and business scenario built on top of it. 
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are a valid SAP Community user. Other pre requisites are mentioned in SAP Discovery Center. 
 
 ## Exercises
 
