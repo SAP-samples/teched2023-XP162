@@ -18,5 +18,4 @@ This mission includes the following steps:
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you have understood the objective of the hands-on continue to - [2_Learn](../ex1/README.md)
