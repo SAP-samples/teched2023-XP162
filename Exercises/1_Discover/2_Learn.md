@@ -18,11 +18,11 @@ SAP Fiori is a design system that provides a consistent user experience for SAP 
 * [The enterprise user experience, reimagined on sap.com](https://www.sap.com/products/fiori.html)
 * [SAP Fiori Design Guidelines](https://experience.sap.com/fiori-design-web/) 
 
-**SAP Fiori Launchpad** 
+**SAP Build Work Zone, standard edition** 
 
 ![](../images/Launchpad.png)
 
-SAP Fiori Launchpad enables organizations to establish a central point of access to SAP, custom-built, and third party applications and extensions, both on the cloud and on-premise. Make use of the SAP Launchpad Service and create your own SAP Fiori Launchpad with role-based and personalized business content accessible via desktop and mobile devices.
+SAP Build Work Zone, standard edition enables organizations to establish a unified point of access to SAP (e.g. SAP S/4HANA), custom-built, and third party applications and extensions, both on the cloud and on premise. With SAP Build Work Zone, standard edition make use of the SAP Launchpad Service and create your own SAP Fiori Launchpad with role-based and personalized business content accessible via desktop and mobile devices.
 
 * [SAP Fiori Launchpad – Overview](https://experience.sap.com/fiori-design-web/launchpad/)
 * [What Is SAP Build Work Zone, standard edition?](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/9db48fa44f7e4c62a01bc74c82e74e07.html)
