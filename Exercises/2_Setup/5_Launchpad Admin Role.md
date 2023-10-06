@@ -38,4 +38,6 @@ You've now been assigned to the <code>Launchpad_Admin</code> role collection and
 *Note*: It may take a few minutes for the admin role assignment to take effect. Until it does, you may get an Access Denied error when you open the launchpad application (how to open the launchpad application will be described in the next step).
 
 
-Continue to - [2_Setup_2_Universal_ID]()
+## Summary
+
+Your user now has access to SAP Build Work Zone, standard edition, continue to - [2_Setup_2_Universal_ID](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/6_Access%20Launchpad.md)
