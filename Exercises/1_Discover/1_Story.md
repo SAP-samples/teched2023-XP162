@@ -1,24 +1,20 @@
-# Level 1 Heading
+The goal of this mission is to create a simple Hello World application using SAPUI5 / SAP Fiori running on SAP Business Technology Platform (SAP BTP) leveraging SAP Business Application Studio (BAS), Cloud Foundry runtime, and SAP Launchpad Service.
 
-In this exercise, you will...
+This mission includes the following steps:
 
-## Level 2 Heading
+Setup of SAP BTP account and subaccount - to give you access the to the SAP BTP Cockpit administration interface
 
-After completing these steps you will have....
+Setup of SAP Launchpad Service - to give you access to create and configure the central point of entry for your users
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+Setup of SAP Business Application Studio - to give you access to the development environment
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+Create a simple HelloWorld app
+
+Deploy the HelloWorld app
+
+Integrate the app into SAP Launchpad
+
+
 
 ## Summary
 
