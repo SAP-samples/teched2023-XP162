@@ -23,4 +23,4 @@ It will list all users you have added as administrators with the "Org Manager" r
 Security - "Users" (#3 on the figure):
 You should see all users assigned to the subaccount. A click on the arrow adds details, including their role collections.
 
-Continue to - [2_Setup_2_Universal_ID](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/1_BAS.md)
+Continue to - [1_BAS](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/1_BAS.md)
