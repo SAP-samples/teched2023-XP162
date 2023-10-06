@@ -23,4 +23,6 @@ Browse through the <a href="https://go3.events.sap.com/sapteched/hybrid/2022/reg
 
 ![](../images/TechEd_picture2.png)
 
-Continue to - [2_Setup_2_Universal_ID]()
+## Summary
+
+After exploring other TechEd sessions. Continue to - [2_Setup_2_Universal_ID]()
