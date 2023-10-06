@@ -26,4 +26,6 @@ You can expand the pane with the button in the top left corner. Predefined is th
   
 *Note:* The HelloWorldSite is still empty.
 
-Continue to - [2_Setup_2_Universal_ID]()
+## Summary 
+
+You have successfully created a Launchpad Site, continue to - [7_Add to Launchpad](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/7_Add%20to%20Launchpad.md)
