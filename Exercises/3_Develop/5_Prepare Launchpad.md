@@ -32,4 +32,6 @@ If you get the error message "Access Denied". Your user has not been assigned th
 </li>
 </ol>
 
-Continue to - [2_Setup_2_Universal_ID]()
+## Summary
+
+You have configured your HTML5 Application for the Launchpad, continue to - [6_Integrate]()
