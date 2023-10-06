@@ -18,4 +18,4 @@ This mission includes the following steps:
 
 ## Summary
 
-Now that you have understood the objective of the hands-on continue to - [2_Learn](../ex1/README.md)
+Now that you have understood the objective of the hands-on continue to - [2_Learn](Exercises/1_Discover/2_Learn.md)
