@@ -88,6 +88,4 @@ A connection of your SAP Business Application Studio to your Cloud Foundry subac
 
 ## Summary
 
-You've now ...
-
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+You've now successfully connected your SAP Business Application Studio, dev space and your SAP BTP Cloud Foundry space. Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
