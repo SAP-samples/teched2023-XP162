@@ -44,4 +44,4 @@ From the&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;screen, under th
 
 ## Summary
 
-Now you have setup your SAP Build Work Zone, standard edition, continue to - [5_Launchpad Admin Role]()
+Now you have setup your SAP Build Work Zone, standard edition, continue to - [5_Launchpad Admin Role](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/5_Launchpad%20Admin%20Role.md)
