@@ -42,5 +42,7 @@ Your trial subaccount and Cloud Foundry Target will be selected automatically as
 
  <!-- ![](../images/App_new.png)  -->
 
-    
-Continue to - [2_Setup_2_Universal_ID]()
+
+## Summary
+
+You have successfully build and deployed your application, continue to - [2_Setup_2_Universal_ID](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/5_Prepare%20Launchpad.md)
