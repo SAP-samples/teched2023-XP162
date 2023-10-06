@@ -44,4 +44,6 @@ You see the ID of the deployed HTML5 apps and the view name.
 **Well done! You have successfully created a Launchpad site, giving necessary roles and groups, and added your HTML5 application to the Launchpad site**
 
 
-Continue to - [2_Setup_2_Universal_ID]()
+## Summary 
+
+You have successfully added your App to the Launchpad group and role. Continue to - [2_Setup_2_Universal_ID]()
