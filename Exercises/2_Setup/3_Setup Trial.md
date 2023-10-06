@@ -36,4 +36,4 @@ Enter Trial Account
 
 ## Summary
 
-Now you have setup your trial account on SAP BTP, continue to - [2_Setup_2_Universal_ID](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/2_Register%20for%20SAP%20BTP.md)
+Now you have setup your trial account on SAP BTP, continue to - [4_Setup SAP Build Work Zone standard edition]()
