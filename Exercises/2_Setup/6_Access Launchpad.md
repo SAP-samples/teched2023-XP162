@@ -16,4 +16,6 @@ The SAP Launchpad service opens with the Site Directory in focus. This is where 
 ![](../images/Open_site_directory.png)
 
 
-Continue to - [2_Setup_2_Universal_ID]()
+## Summary
+
+You now have access to SAP Launchpad, continue to - [2_Setup_2_Universal_ID](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/7_Check%20Account.md)
