@@ -89,5 +89,8 @@ Title: **showhelloworld**
  
 14. Click **OK**.
 
-Continue to - [2_Setup_2_Universal_ID]()
+
+## Summary
+
+You have now successfully created the application, continue to - [3_Tes](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/3_Test.md)
 
