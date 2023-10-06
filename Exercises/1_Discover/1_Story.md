@@ -4,7 +4,7 @@ This mission includes the following steps:
 
 + Setup of SAP BTP account and subaccount - to give you access the to the SAP BTP Cockpit administration interface
 
-+ Setup of SAP Build Work Zone, standard edition (SAP Launchpad) - to give you access to create and configure the central point of entry for your users
++ Setup of SAP Build Work Zone, standard edition which includes SAP Launchpad - to give you access, to create and configure the central point of entry for your users
 
 + Setup of SAP Business Application Studio - to give you access to the development environment
 
@@ -12,8 +12,7 @@ This mission includes the following steps:
 
 + Deploy the 'Hello World' app
 
-+ Integrate the app into SAP Build Work Zone, standard edition (SAP Launchpad)
-
++ Integrate the app into SAP Build Work Zone, standard edition that icludes SAP Launchpad
 
 
 ## Summary
