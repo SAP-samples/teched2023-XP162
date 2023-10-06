@@ -37,4 +37,4 @@ SAP Business Application Studio (the next generation of SAP Web IDE) is a powerf
 * [What is the SAP Business Application Studio?](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/8f46c6e6f86641cc900871c903761fd4.html)
 * [SAP Business Application Studio in Service Catalog](https://discovery-center.cloud.sap/serviceCatalog/business-application-studio?region=all)
 
-Now that you have understood the objective of the hands-on continue to - [2_Setup_1_System_Prerequisites](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/1_System_Prerequisites.md)
+Now you know the services used in the hands-on, continue to - [2_Setup_1_System_Prerequisites](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/1_System_Prerequisites.md)
