@@ -1,39 +1,13 @@
-# Exercise 1 - Exercise 1 Description
+The following requirements have to be met (no action required):
 
-In this exercise, we will create...
+SAP BTP trial account with entitlements for:
+SAP Business Application Studio
+SAP Launchpad Service
 
-## Exercise 1.1 Sub Exercise 1 Description
+SAP BTP account administrator privilege.
+You start with creating the SAP BTP trial account and setting up the SAP Launchpad Services on the next project board cards. Skip the next Card in case you already have an SAP BTP Trial account!
 
-After completing these steps you will have created...
-
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
-
-
-
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+SAP BTP Trial Accounts already have preconfigured a Cloud Foundry runtime and an SAP Business Application Studio development environment.
 
 
 ## Summary
