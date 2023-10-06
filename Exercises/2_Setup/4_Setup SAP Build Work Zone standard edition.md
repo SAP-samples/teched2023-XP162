@@ -44,4 +44,4 @@ From the&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;screen, under th
 
 ## Summary
 
-Now you have setup your SAP Build Work Zone, standard edition, continue to - [2_Setup_2_Universal_ID]()
+Now you have setup your SAP Build Work Zone, standard edition, continue to - [5_Launchpad Admin Role]()
