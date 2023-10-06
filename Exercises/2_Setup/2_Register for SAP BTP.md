@@ -1,4 +1,5 @@
 **Sign up for a free trial account on SAP BTP**
+
 Note: Perform the steps below only if you have not registered before. 
 
 Here you will learn: 
