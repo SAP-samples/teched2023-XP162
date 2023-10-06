@@ -14,3 +14,6 @@ You are now ready to access the SAP Launchpad service as admin / site manager of
 The SAP Launchpad service opens with the Site Directory in focus. This is where you'll create and manage your launchpad sites. You will go to the Launchpad Site Manager again later after all services are prepared.
 
 ![](../images/Open_site_directory.png)
+
+
+Continue to - [2_Setup_2_Universal_ID]()
