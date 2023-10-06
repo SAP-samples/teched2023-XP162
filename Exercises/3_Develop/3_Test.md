@@ -26,3 +26,5 @@ Now let us **change the title of the app** to "HelloWorld".
 You will see the changes in the application preview accordingly: "Hello World" instead of "Hello World App Title".
 
 <!-- ![](../images/Hello_TechEd.png) -->
+
+Continue to - [2_Setup_2_Universal_ID]()
