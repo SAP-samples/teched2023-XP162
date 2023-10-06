@@ -92,5 +92,5 @@ Title: **showhelloworld**
 
 ## Summary
 
-You have now successfully created the application, continue to - [3_Tes](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/3_Test.md)
+You have now successfully created the application, continue to - [3_Test](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/3_Test.md)
 
