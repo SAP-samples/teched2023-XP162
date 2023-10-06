@@ -25,4 +25,4 @@ Browse through the <a href="https://go3.events.sap.com/sapteched/hybrid/2022/reg
 
 ## Summary
 
-After exploring other TechEd sessions. Continue to - [2_Setup_2_Universal_ID]()
+You have completed the hands-on XP162. Please continue to provide - [3_Feedback](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/4_Complete/3_Feedback.md)
