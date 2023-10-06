@@ -18,4 +18,4 @@ This mission includes the following steps:
 
 ## Summary
 
-Now that you have understood the objective of the hands-on continue to - [2_Learn](Exercises/1_Discover/2_Learn.md)
+Now that you have understood the objective of the hands-on continue to - [2_Learn](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/1_Discover/2_Learn.md)
