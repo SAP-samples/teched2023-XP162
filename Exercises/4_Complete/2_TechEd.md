@@ -22,3 +22,5 @@ Browse through the <a href="https://go3.events.sap.com/sapteched/hybrid/2022/reg
 **Check [learning.sap.com/teched](https://learning.sap.com/teched)** and join the the [SAP TechEd](https://groups.community.sap.com/t5/sap-teched/gh-p/SAP-TechEd-Group) and [SAP Learning Groups](https://groups.community.sap.com/t5/sap-learning-groups/ct-p/SAP-Learning) in **SAP Community** to connect with experts, share your knowledge, expand your network, and collaborate with peers!
 
 ![](../images/TechEd_picture2.png)
+
+Continue to - [2_Setup_2_Universal_ID]()
