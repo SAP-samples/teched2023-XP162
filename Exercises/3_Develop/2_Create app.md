@@ -1,6 +1,6 @@
 **Create an SAP Fiori Application with "Start from template"**
 
-1. Click on **Start from template** in the Welcome tab to create the project.
+1. Click on **New Project from Template** in the Welcome tab to create the project.
 Alternative: Open the menu in the top left corner and go to **View > Command Palette ...** and search for ">new project". Select the command **SAP Business Application Studio: New Project from Template**
 
 ![](../images/BAS_start.png)
