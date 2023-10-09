@@ -38,7 +38,7 @@ The Service Marketplace provides you access to all services and applications tha
      You are redirected to the <strong>Services</strong>&nbsp;-&gt;&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;screen. This screen provides you with an overview of all services and applications that are currently active.
 
 
-From the&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;screen, under the&nbsp;<strong>Subscriptions</strong> tab or on the right under the service name, you'll see that you are subscribed to the <strong>Launchpad Service </strong>now. The <strong>SAP Business Application Studio Service</strong> is automatically subscribed with the creation of the trial account.</p>
+From the&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;screen, under the&nbsp;<strong>Subscriptions</strong> tab or on the right under the service name, you'll see that you are subscribed to the <strong>SAP Build Work Zone, standard edition</strong>now. The <strong>SAP Business Application Studio Service</strong> is automatically subscribed with the creation of the trial account.</p>
 
 ![](../images/Subscribed.png)
 
