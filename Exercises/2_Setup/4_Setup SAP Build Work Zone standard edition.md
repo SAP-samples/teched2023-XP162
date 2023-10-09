@@ -1,11 +1,11 @@
-**Setup SAP Launchpad Service in your trial account**
+**Setup SAP Build Work Zone, standard edition in your trial account**
 
-To create a Central Point of Entry for your users, you need the SAP Launchpad Service
+To create a central point of entry for your users, you need the SAP Launchpad Service which comes under SAP Build Work Zone, standard edition.
 
-**Subscribe to the SAP Launchpad Service**
+**Subscribe to the SAP Build Work Zone, standard edition**
 
-Before you can access the SAP Launchpad Service, you first need to subscribe to it as this service is not pre-configured with your trial account.
-that the SAP Launchpad service offers two types of standard plans. The **Applications Plan** which is used to access your applications from the launchpad. In this case, you need to create a subscription to the SAP Launchpad service, which you will do with the following steps. The 2nd plan is the **Service Plan** which is used to integrate with other services. This plan is not required for the scope of this tutorial.
+Before you can access the SAP Launchpad Service, you first need to subscribe to SAP Build Work Zone, standard edition as this service is not pre-configured with your trial account. SAP Build Work Zone, standard edition service offers 'standard' plans that allows you to integrate SAP Build Work Zone, standard edition with other services using APIs.
+
 
 1. In your trial subaccount click **Service Marketplace** in the left navigation panel under **Services**.<br>
 The Service Marketplace provides you access to all services and applications that you can access from the SAP BTP cockpit.
