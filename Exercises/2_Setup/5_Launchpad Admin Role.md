@@ -33,7 +33,7 @@ Keep the the default identity provider. Then click <strong>Save</strong>.
      ![](../images/Add_emails.png)
 
 
-You've now been assigned to the <code>Launchpad_Admin</code> role collection and you can access the SAP Launchpad service and carry out all your admin tasks.
+You've now been assigned to the <code>Launchpad_Admin</code> role collection and you can access the SAP Build Work Zone, standard edition and carry out all your admin tasks.
 
 *Note*: It may take a few minutes for the admin role assignment to take effect. Until it does, you may get an Access Denied error when you open the launchpad application (how to open the launchpad application will be described in the next step).
 
