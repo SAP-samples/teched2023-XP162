@@ -7,7 +7,7 @@
 <li>
 <p>Expand your HTML5 project and under the folder&nbsp;<strong>helloworldui5&nbsp;</strong>&gt;&nbsp;<strong>webapp</strong> open the <strong>manifest.json </strong>file<strong>.</strong>&nbsp;</p> In our sample it would look like this:
 </li>
-<li>To ensure that the data of the application is displayed correctly on the SAP Launchpad site, check the value of <strong>sap.cloud</strong> in <strong>webapp/manifest.json</strong> file.&nbsp;<br /><br />
+<li>To ensure that the data of the application is displayed correctly on the SAP Build Work Zone site, check the value of <strong>sap.cloud</strong> in <strong>webapp/manifest.json</strong> file.&nbsp;<br /><br />
 <div>
 <div>&nbsp;<code>"sap.cloud":&nbsp;{</code></div>
 <div><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"public":&nbsp;true,</code></div>
@@ -16,14 +16,14 @@
 </div>
 </li>
 </ol>
-<p><strong>Open Launchpad Site Manager</strong></p>
+<p><strong>SAP Build Work Zone, standard edition</strong></p>
 <ol>
 <li>
 <p>Switch back to the <strong>subaccount</strong> in your SAP BTP Cockpit.</p>
 </li>
 <li>Navigate to <strong>Services</strong> &gt;&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;in the left navigation pane.</li>
 <li>
-<p>Select the tab <strong>Subscriptions</strong>, and choose <strong>Launchpad Service</strong> The Launchpad Site Manager opens in a new window.</p>
+<p>Select the tab <strong>Subscriptions</strong>, and choose <strong>SAP Build Work Zone, standard edition</strong> The Site Manager opens in a new window.</p>
   
  <!-- ![](../images/Open_site_directory.png) --> 
   
