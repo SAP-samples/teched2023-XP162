@@ -13,7 +13,7 @@ The Service Marketplace provides you access to all services and applications tha
      ![](../images/Service_marketplace.png)
         
 
-2. Enter <code>launchpad</code> in the search box and click on the **Launchpad Service**
+2. Enter <code>workzone</code> in the search box and click on the **SAP Build Work Zone, standard edition**
 
      ![](../images/Find_launchpad.png)
 
@@ -24,7 +24,7 @@ The Service Marketplace provides you access to all services and applications tha
     ![](../images/Create_subscription.png)
 
 
-4. In the **New Instance or Subscription** dialog box that opens, leave the basic information that appears there and click **Create** 
+4. In the **New Instance or Subscription** dialog box that opens, leave the basic information that appears there and click **Create** and select **Standard** subscription plan.
 
      ![](../images/Create.png)
 
