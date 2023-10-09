@@ -23,7 +23,7 @@ Now let us **change the title of the app** to "HelloWorld".
 
 ![](../images/View1_code.png)
 
-You will see the changes in the application preview accordingly: "Hello World" instead of "Hello World App Title".
+You will see the changes in the application preview accordingly: "Hello TechEd" on the page.
 
 <!-- ![](../images/Hello_TechEd.png) -->
 
