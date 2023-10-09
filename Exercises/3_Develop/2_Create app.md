@@ -11,10 +11,11 @@ Click **Start**.
 
 ![](../images/Template_Fiori_app.png)
 
-3. In the **Floorplan Selection** choose the following:
+3. In the **Template Selection** choose the following:
 
-For the field **Application Type** choose **SAPUI5 freestyle** from the drop-down.
-Select **SAPUI5 Application** as floorplan.
+For the field **Template Type** choose **SAP Fiori** from the drop-down.
+Select 'Basic' tile.
+
 
 Choose **Next**.
 
