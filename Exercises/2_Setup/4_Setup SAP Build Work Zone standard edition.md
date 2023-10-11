@@ -17,16 +17,16 @@ The Service Marketplace provides you access to all services and applications tha
 
      ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/selectworkzone1.png)
 
-     If you clicked on the Launchpad Service Tile the Launchpad Service page opens with 3 tabs that include information about the service (overview) as well as the two different plans (Service and Application Plans).
+     If you clicked on the SAP Build Work Zone, standard edition tile the service page opens with 3 tabs that include information about the service (overview) as well as other details.
 
-3. Under the **Applications Plans** tab, click the Actions icon (&hellip;) and select **Create** to create a new subscription.
+3. Click on the SAP Build Work Zone, standard edition tile and then click **Create** to create a new subscription.
 
-    ![](../images/Create_subscription.png)
+    ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/selectstandardplan.png))
 
 
 4. In the **New Instance or Subscription** dialog box that opens, leave the basic information that appears there and click **Create** and select **Standard** subscription plan.
 
-     ![](../images/Create.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/workzonesubscribed.png)
 
 
 5. You'll get the confirmation that your subscription is being created. Click <strong>View Subscription</strong>.</p>
