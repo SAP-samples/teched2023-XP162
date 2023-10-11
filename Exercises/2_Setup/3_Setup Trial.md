@@ -27,7 +27,7 @@ Enter Trial Account
 
 5. Click the <strong>trial</strong> tile to navigate to your trial subaccount in the SAP BTP cockpit.
 
-      ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Trial.png))
+      ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Trial.png)
 
 
     *Note*: You will be on the Overview page of your BTP Cockpit:
