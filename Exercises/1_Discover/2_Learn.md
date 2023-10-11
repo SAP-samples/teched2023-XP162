@@ -3,7 +3,7 @@ Learn more about the services used in this mission (optional):
 
 **SAPUI5**
 
-![](../images/UI5.png)
+![](../images/UI5.png](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/sapui5.png)
 
 SAPUI5 is a JavaScript application framework designed to build cross-platform, responsive, enterprise-ready applications.
 
@@ -21,7 +21,7 @@ SAP Fiori is a design system that provides a consistent user experience for SAP 
 
 **SAP Build Work Zone, standard edition** 
 
-![](../images/Launchpad.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/buildworkzone.png)
 
 SAP Build Work Zone, standard edition enables organizations to establish a unified point of access to SAP (e.g. SAP S/4HANA), custom-built, and third party applications and extensions, both on the cloud and on premise. With SAP Build Work Zone, standard edition make use of the SAP Launchpad Service and create your own SAP Fiori Launchpad with role-based and personalized business content accessible via desktop and mobile devices.
 
@@ -31,7 +31,7 @@ SAP Build Work Zone, standard edition enables organizations to establish a unifi
 
 **SAP Business Application Studio** 
 
-![](../images/BAS.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/BAS.png)
 
 SAP Business Application Studio (the next generation of SAP Web IDE) is a powerful and modern development environment, tailored for efficient development of business applications for the Intelligent Enterprise. Available as a cloud service, it provides developers a desktop-like experience similar to market leading IDEs, while accelerating time-to-market with high-productivity development tools such as wizards and templates, graphical editors, quick deployment, and more.
 
