@@ -18,7 +18,11 @@ The requirements to follow the exercises in this repository are a valid SAP Comm
 
 ## Prerequisites
 
-[Register](https://discovery-center.cloud.sap/index.html) at SAP Discovery Center by doing the following steps: SAP Discovery Center registration. 
+[Register](https://discovery-center.cloud.sap/index.html) at SAP Discovery Center by doing the following steps: 
+
++ Open in your browser: https://discovery-center.cloud.sap/
++ Allow Cookies here
++ Logon / Complete the registration for SAP Discovery Center
 
 ## Exercises
 
