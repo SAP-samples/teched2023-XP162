@@ -13,7 +13,7 @@ A new browser tab opens with your app:
 
 ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/App_generated_new.png)
 
-Now let us **change the title of the app** to "HelloWorld".
+Now let us **change the title of the app** to "Hello TechEd".
 
 3. Go to **Explorer** in the left navigation pane.
 
