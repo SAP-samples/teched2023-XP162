@@ -23,6 +23,8 @@ You can expand the pane with the button in the top left corner. Predefined is th
 5. Create a new entity **Group** by clicking on **+Create > Group** enter a name (e.g. "HelloWorldGroup") and click on **Save**. 
 
 ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/newgroup.png) 
+
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/helloworldgroup.png)
   
 *Note:* The HelloWorldSite is still empty.
 
