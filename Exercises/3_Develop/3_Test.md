@@ -2,16 +2,16 @@
 
 1. Right click on your project folder "helloworldui5" and choose **Preview Application**. 
 
-     ![](../images/Preview_Application.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Preview_Application.png)
 
 
 2. Choose npm script: **start-noflp fiori run --open "intex.html?sap-ui-xx-viewCache=false"**
 
-     ![](../images/Start_noflp.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Start_noflp.png)
 
 A new browser tab opens with your app:
 
-![](../images/App_generated_new.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/App_generated_new.png)
 
 Now let us **change the title of the app** to "HelloWorld".
 
@@ -21,7 +21,7 @@ Now let us **change the title of the app** to "HelloWorld".
 
 5. Change "{i18n>title}" to "Hello TechEd".
 
-![](../images/View1_code.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/View1_code.png)
 
 You will see the changes in the application preview accordingly: "Hello TechEd" on the page.
 
