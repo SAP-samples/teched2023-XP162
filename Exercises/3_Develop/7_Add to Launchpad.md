@@ -38,7 +38,7 @@ You see the ID of the deployed HTML5 apps and the view name.
 
 12. Refresh your "HelloWorldSite" and you will see your newly created app in the Launchpad (If you closed the tab with your HelloWorldSite, you can go to the <strong>Site Directory</strong> in the left navigation pane and open your "HelloWorldSite").
   
-![](../images/Hello_World_app.png) 
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Hello_World_app.png) 
   
 
 **Well done! You have successfully created a Launchpad site, giving necessary roles and groups, and added your HTML5 application to the Launchpad site**
