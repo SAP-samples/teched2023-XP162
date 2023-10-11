@@ -1,5 +1,5 @@
 
-Browse through the <a href="https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog" target="_blank">SAP TechEd 2022 Session Catalog</a> to join and watch additional sessions. <br>Here a few top picks as recommendation for you:
+Browse through the <a href="https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&locale=en_US">SAP TechEd 2023 Session Catalog</a> to join and watch additional sessions. <br>Here a few top picks as recommendation for you:
 
 #### SAP Business Technology Platform (General) Track
 
