@@ -27,7 +27,7 @@ You see the ID of the deployed HTML5 apps and the view name.
   
 7. Go back to Content Manager and click on the <strong>Everyone</strong> role (you can also create your company-specific roles) and click on the button <strong>Edit</strong>.
   
-8. Select the radio button and change the selection of <strong>Assignment Status</strong>. And then Save.![]
+8. Select the radio button and change the selection of <strong>Assignment Status</strong>. And then Save.
   
      ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/changeassignEvery.png)
 
