@@ -22,7 +22,7 @@ The requirements to follow the exercises in this repository are a valid SAP Comm
 
 + Open in your browser: https://discovery-center.cloud.sap/
 + Allow Cookies here
-+ Logon / Complete the registration for SAP Discovery Center
++ Logon/ Complete the registration for SAP Discovery Center
 
 ## Exercises
 
