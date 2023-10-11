@@ -3,12 +3,12 @@ Browse through the <a href="https://go2.events.sap.com/TechEd2023/agb/go/agendab
 
 #### SAP Business Technology Platform (General) Track
 
-* [How to Build Business Extensions and Implement Use Cases on SAP BTP](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198449212001XSCD) [XP262] (Hands-On Workshop)
-* [Operating Your SAP BTP Platform Environment with SAP Cloud ALM](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198449141001Xfk0) [XP261] (Hands-On Workshop)
-* [Monitoring and Ops Automation for Your Cloud Application and SAP HANA Cloud](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198040049001EiEt) [XP281] (Virtual Workshop)
-* [A Look “Under the Hood” at SAP Business Technology Platform](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198040124001EQRV) [XP102] (Virtual Lecture)
-* [Overview and Latest News on How to Enable DevOps on SAP BTP](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198039861001ELW9) [XP103] (Virtual Lecture)
-* [How Geberit and SAP Business Technology Platform Meet Business Challenges](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198040158001ECqG) [XP107] (Virtual Breakout)
+* [SAP Business Technology Platform Strategy and Highlights](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=117913&schid=520476&locale=en_US) [XP124] (Lecture)
+* [Getting Started with Full-Stack Application Development on SAP BTP](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=117895&schid=520489&locale=en_US) [XP260] (Hands-On Workshop)
+* [How Generative AI Is Redefining Innovation on SAP BTP](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=116843&schid=520505&locale=en_US) [ST102] (Strategy Talk)
+* [Generative AI for SAP BTP: Status and the Way Forward](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=117953&schid=520479&locale=en_US) [XP102] (Lecture)
+* [Build a Multitenant Partner ERP-Agnostic Side-by-Side CAP App Using SAP BTP](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=117920&schid=520510&locale=en_US) [XP938] (Demo Session)
+* [Accelerate Packs: Get Started with SAP BTP with the RISE with SAP Offering](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=117922&schid=520688&locale=en_US) [XP947] (Demo Session)
 
 #### Others
 
