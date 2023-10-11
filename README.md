@@ -4,11 +4,11 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 session called XP162 - Get Started with SAP BTP Leveraging SAP Discovery Center.
+This repository contains the material for the SAP TechEd 2023 session called **XP162 - Get Started with SAP BTP Leveraging SAP Discovery Center**.
 
 ## Overview
 
-This session introduces attendees to 'SAP Discovery Center' and how they can use it to adopt and get hands on with SAP Business Technology Platform and business scenario built on top of it. 
+This session introduces attendees to '**SAP Discovery Center**' and how they can use it to adopt and get hands on with SAP Business Technology Platform and business scenario built on top of it. 
 
 In this hands-on SAP Discovery Center supports you in effectively working with SAP Business Technology Platform (SAP BTP) and its business services. You will be enabled to take your first steps with SAP BTP guided by a mission providing all relevant technical information. The goal of the exercises is to create a simple 'Hello World' application using SAPUI5/ SAP Fiori running on SAP BTP leveraging SAP Business Application Studio, Cloud Foundry runtime, and SAP Build Work Zone, standard edition (former SAP Launchpad Service) - all based on a SAP Discovery Center mission that will guide you through the tasks.
 
@@ -18,7 +18,7 @@ The requirements to follow the exercises in this repository are a valid SAP Comm
 
 ## Prerequisites
 
-[Register](https://discovery-center.cloud.sap/index.html) at SAP Discovery Center by doing the following steps: SAP Discovery Center registration
+[Register](https://discovery-center.cloud.sap/index.html) at SAP Discovery Center by doing the following steps: SAP Discovery Center registration. 
 
 ## Exercises
 
@@ -35,11 +35,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
   
 **OR** Link to the Tutorial Navigator for example..
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+Start the mission [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
