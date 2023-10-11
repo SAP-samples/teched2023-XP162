@@ -25,7 +25,7 @@ Choose **Next**.
 
 5. Choose **Next**.
 
-![](../images/Data_Source.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Data_Source.png)
 
 
 6. Under **Entity Selection** name your SAPUI5 view. This name will appear in the launchpad service for the app. We keep **"View1"** for now
@@ -49,7 +49,7 @@ Choose **Next**
 
 Choose **Next**.
 
-![](../images/Template_Project_Attributes.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Template_Project_Attributes.png)
 
 8. In the next step, **Deployment Configuration** choose **Cloud Foundry** as a target.
 
@@ -61,7 +61,7 @@ This is the standard html5 repository from launchpad service and eases deploymen
 
 Choose **Next**.
 
-![](../images/Deployment_Config.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Deployment_Config.png)
 
 9. The launchpad service needs some Fiori Launchpad Configuration data about the app. Choose names for the entries Semantic Object, Action, and Title (examples see figure)
 (Optional: For more information about these data and features, see Intent-Based Navigation in a Nutshell).
@@ -70,7 +70,7 @@ Semantic Object: **helloworld**
 Action: **show**
 Title: **showhelloworld** 
 
-![](../images/Fiori_Launchpad_config.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Fiori_Launchpad_config.png)
 
 10. Choose **Finish**
 
@@ -78,7 +78,7 @@ Title: **showhelloworld**
 
 11. Click on **Add Project to Workspace**
 
-![](../images/Workspace.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/addprojecttoworkspace.png)
 
 12. After your App is generated, you should see this page and in the Explorer a new folder "helloworldui5".
 
