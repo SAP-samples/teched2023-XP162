@@ -10,7 +10,7 @@ Before you can access the SAP Launchpad Service, you first need to subscribe to 
 1. In your trial subaccount click **Service Marketplace** in the left navigation panel under **Services**.<br>
 The Service Marketplace provides you access to all services and applications that you can access from the SAP BTP cockpit.
 
-     ![](../images/Service_marketplace.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Service_marketplace.png)
         
 
 2. Enter <code>workzone</code> in the search box and click on the **SAP Build Work Zone, standard edition**
