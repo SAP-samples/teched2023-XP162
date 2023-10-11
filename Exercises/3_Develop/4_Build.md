@@ -6,12 +6,12 @@
 2. Open the <em>xs-app.json</em> and <em>xs-security.json</em> file.<br />You see that you did not define "scopes", no "role-templates" and "role-collections". Meaning with that configuration every authorized user will have access to the app. 
 <br /> <br />  
   
-     ![](../images/xs_app.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/xs_app.png)
  
 3. Let's build your application in SAP Business Application Studio. 
 Right-click on the <strong>mta.yaml</strong> file and choose <strong>Build MTA project</strong>. With this a folder "mta_archives" and a mtar file is created.
 
-     ![](../images/Build_MTA.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Build_MTA.png)
 
 You will get the following INFO Message:
 <code>INFO the MTA archive generated at: /home/user/projects/helloworldui5/mta_archives/sap-btp-helloworldui5_0.0.1.mtar</code>
@@ -32,11 +32,11 @@ Your trial subaccount and Cloud Foundry Target will be selected automatically as
 
 5. After the deployment is triggered, you can see the progress of the deployment in the terminal under <strong>Task: Deploy MTA Archive</strong>. <br />It takes a while to complete the task. You will see a success message in the console once it's done. <br />If not, check the previous steps again.<br /><br />
   
-![](../images/Terminal.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Terminal.png)
   
 6. Switch to your <strong>subaccount </strong>in the SAP BTP Cockpit<strong>. <br /></strong>Select<strong> HTML5 Application </strong>on the left navigation pane. You will see the deployed application in the repository.
 
-![](../images/HTML5_app.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/appincockpit.png)
   
 7. Click on the application name "<strong>sapbtphelloworldui5</strong>". Your deployed app will open in a new window.
 
