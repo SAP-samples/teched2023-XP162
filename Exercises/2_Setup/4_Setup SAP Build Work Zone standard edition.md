@@ -15,7 +15,7 @@ The Service Marketplace provides you access to all services and applications tha
 
 2. Enter <code>workzone</code> in the search box and click on the **SAP Build Work Zone, standard edition**
 
-     ![](../images/Find_launchpad.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/selectworkzone.png)
 
      If you clicked on the Launchpad Service Tile the Launchpad Service page opens with 3 tabs that include information about the service (overview) as well as the two different plans (Service and Application Plans).
 
