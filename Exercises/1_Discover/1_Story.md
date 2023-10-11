@@ -14,7 +14,7 @@ This mission includes the following steps:
 
 + **Integrate** the app into SAP Build Work Zone, standard edition that icludes SAP Launchpad
 
-! [test](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Hello_World_app.png)
+! https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Hello_World_app.png
 
 ## Summary
 
