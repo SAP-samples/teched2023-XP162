@@ -6,17 +6,13 @@
 ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/hwsite.png) 
 You will be forwarded to the "Site Editor" showing the Settings of the created HelloWorldSite.
 
-3. Navigate back to the Site Directory.
-  
-You can navigate the new site with the **Go to site button**.
+3. You can navigate the new site with the **Go to site button**.
   
 ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/gotosite1.png)
   
 *Note:* You can see the the new site is still empty.
 
-4. Open the former browser tab "Site Directory" and navigate to **Content Manager** in the left navigation pane.
-
-You can expand the pane with the button in the top left corner. Predefined is the role **Everyone**.
+4.  Navigate back to the Site Directory. Open the former browser tab "Site Directory" and navigate to **Content Manager** in the left navigation pane. You can expand the pane with the button in the top left corner. Predefined is the role **Everyone**.
 
 ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/contentmanager.png) 
  
