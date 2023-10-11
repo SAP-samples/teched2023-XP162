@@ -82,14 +82,7 @@ Title: **showhelloworld**
 
 12. After your App is generated, you should see this page and in the Explorer a new folder "helloworldui5".
 
-![](../images/BAS_Project_App_Info.png)
-
-13. Open your Projects folder via menu: **File > Open Folder** ... and enter **"/home/user/projects"**.
-
-![](../images/Open_Projects_folder.png)
- 
-14. Click **OK**.
-
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/helloapp.png)
 
 ## Summary
 
