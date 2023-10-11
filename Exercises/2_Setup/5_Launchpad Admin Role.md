@@ -5,32 +5,32 @@ To be able to manage the SAP Launchpad service, users must be assigned to the <c
 
 1. Click **Role Collections** from the side menu under <strong>Security</strong>
   
-     ![](../images/Role_collections.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Role_collections.png)
   
   
 2. In the Search field start typing Launchpad to find the <code>Launchpad_Admin</code> role collection.
 Note that the &ldquo;Launchpad_Admin&rdquo; role was automatically created with the subscription to the Launchpad Service in order to create and manage your launchpad sites.
 
-     ![](../images/Search_launchpad_admin.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Search_launchpad_admin.png)
 
 
 5. Click in the row with the <code>Launchpad_Admin</code> role collection (or on the arrow at the far right of the row).
 
-      ![](../images/Open_role_collection.png)
+      ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Open_role_collection.png)
 
      You can see all the details of the <code>Launchpad_Admin</code> role collection.
 
 
 6. Click <strong>Edit</strong>
 
-      ![](../images/Click_edit.png)
+      ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Click_edit.png)
 
       
 7. Under the <strong>Users</strong> tab, enter your email in both the <strong>ID</strong> and the <strong>E-Mail</strong> fields. 
 Keep the the default identity provider. Then click <strong>Save</strong>.
 
 
-     ![](../images/Add_emails.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Add_emails.png)
 
 
 You've now been assigned to the <code>Launchpad_Admin</code> role collection and you can access the SAP Build Work Zone, standard edition and carry out all your admin tasks.
