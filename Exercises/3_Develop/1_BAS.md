@@ -4,7 +4,7 @@
 1. Click Instances and Subscriptions under Services
 
 2. Select the tab Subscriptions, and click on SAP Business Application Studio. You will be forwarded to your SAP Business Application Studio Home Page with automatic login to the application.
-![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/clickBAS1.png)
+![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/clickBAS2.png)
 
 3. Please, accept the Privacy Statement
 
