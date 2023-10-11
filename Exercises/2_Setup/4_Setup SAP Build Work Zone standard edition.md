@@ -21,10 +21,10 @@ The Service Marketplace provides you access to all services and applications tha
 
 3. Click on the SAP Build Work Zone, standard edition tile and then click **Create** to create a new subscription.
 
-    ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/createWorkzone.png) 
+    ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/createworkzone1.png)
 
 
-5. In the **New Instance or Subscription** dialog box that opens, leave the basic information that appears there and click **Create** and select **Standard** subscription plan.
+5. In the **New Instance or Subscription** dialog box that opens, leave the basic information that appears there select **Standard** subscription plan and click **Create**.
 
    ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/selectstandardplan.png)
 
