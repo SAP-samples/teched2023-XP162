@@ -12,12 +12,12 @@ Browse through the <a href="https://go2.events.sap.com/TechEd2023/agb/go/agendab
 
 #### Others
 
-* [Application Development and Automation: Build Your Own Digital Experience with SAP Work Zone](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1660857713150001zR6p) [AD260] (Hands-On Workshop)
-* [Integration: Experience Event-Driven Integrations Hands-On with SAP Integration Suite](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198448254001XqgH) [IN261] (Hands-On Workshop)
-* [Digital Transformation with SAP S/4HANA: Learn How to Set Up and Configure SAP Mobile Start with SAP S/4HANA](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198449027001XXNj) [DT264] (Hands-On Workshop)
-* [Artificial Intelligence: Automate Your Invoice Processing with SAP Process Automation](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198041428001ExKO) [AI180] (Virtual Workshop)
-* [Data and Analytics: Integrating SAP Analytics Cloud in SAP Applications](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198041328001EO7q) [DA202] (Virtual Lecture)
-* [Application and Business Processes: Explore the Capabilities of SAP SuccessFactors Work Zone](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198037242001E6ZH) [AP300] (Virtual Breakout)
+* [Building SAP Fiori Apps with ABAP Cloud on SAP BTP, ABAP Environment](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=116864&schid=520415&locale=en_US) [AD260] (Hands-On Workshop)
+* [Manage the Propagation of Content Types Based on SAP BTP with SAP Cloud ALM ](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=116866&schid=520417&locale=en_US) [AD261] (Hands-On Workshop)
+* [E2E Scenario Building on SAP AI Core and SAP AI Launchpad](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=115761&schid=520284&locale=en_US) [AI266] (Hands-On Workshop)
+* [Hands-On Experience with SAP Master Data Governance, Cloud Edition](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=115695&schid=520444&locale=en_US) [DA160] (Hands-On Workshop)
+* [Start with the Right Mind-Set and Learn How to Modernize Your Integration ](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=115615&schid=520373&locale=en_US) [IN268] (Hands-On Workshop)
+* [Get Hands-On Security Recommendations for Your SAP BTP Environment](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=117901&schid=520492&locale=en_US) [XP264] (Hands-On Workshop)
 
 **Check [learning.sap.com/teched](https://learning.sap.com/teched)** and join the the [SAP TechEd](https://groups.community.sap.com/t5/sap-teched/gh-p/SAP-TechEd-Group) and [SAP Learning Groups](https://groups.community.sap.com/t5/sap-learning-groups/ct-p/SAP-Learning) in **SAP Community** to connect with experts, share your knowledge, expand your network, and collaborate with peers!
 
