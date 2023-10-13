@@ -19,7 +19,7 @@ Browse through the <a href="https://go2.events.sap.com/TechEd2023/agb/go/agendab
 * [Start with the Right Mind-Set and Learn How to Modernize Your Integration ](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=115615&schid=520373&locale=en_US) [IN268] (Hands-On Workshop)
 * [Get Hands-On Security Recommendations for Your SAP BTP Environment](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=117901&schid=520492&locale=en_US) [XP264] (Hands-On Workshop)
 
-**Check [learning.sap.com/teched](https://learning.sap.com/teched)** and join the the [SAP TechEd](https://groups.community.sap.com/t5/sap-teched/gh-p/SAP-TechEd-Group) and [SAP Learning Groups](https://groups.community.sap.com/t5/sap-learning-groups/ct-p/SAP-Learning) in **SAP Community** to connect with experts, share your knowledge, expand your network, and collaborate with peers!
+**Check [learning.sap.com/teched](https://learning.sap.com/teched)** and join the the [SAP TechEd](https://groups.community.sap.com/t5/sap-teched-blog-posts/save-the-date-sap-teched-november-2-3-2023/ba-p/257969) and [SAP Learning Groups](https://groups.community.sap.com/t5/sap-learning-groups/ct-p/SAP-Learning) in **SAP Community** to connect with experts, share your knowledge, expand your network, and collaborate with peers!
 
 ![](../images/TechEd_picture2.png)
 
