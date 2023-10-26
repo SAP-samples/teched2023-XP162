@@ -27,7 +27,7 @@ The requirements to follow the exercises in this repository are a valid SAP Comm
 ## Exercises
 
 You can follow the excercises in GitHub as well but our recommendation would be to start the mission in SAP Discovery Center. 
-- [Start in GitHub](https://github.com/SAP-samples/teched2023-XP162/tree/main/Exercises)
+- You can start following the steps in [GitHub](https://github.com/SAP-samples/teched2023-XP162/tree/main/Exercises). Start with the Excercise folder from 1 to 4.
    
 **OR** Link to the SAP Discovery Center mission: Start the mission [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
