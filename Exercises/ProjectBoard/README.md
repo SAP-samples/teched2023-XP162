@@ -12,5 +12,13 @@
   - [Launchpad Admin Role](../2_Setup/5_Launchpad%20Admin%20Role.md)
   - [Access Launchpad](../2_Setup/6_Access%20Launchpad.md)
   - [Check Account](../2_Setup/7_Check%20Account.md)
+- Develop
+  - [BAS](../3_Develop/1_BAS.md)
+  - [Create app](../3_Develop/2_Create%20app.md)
+  - [Test](../3_Develop/3_Test.md)
+  - [Build](../3_Develop/4_Build.md)
+  - [Prepare Launchpad](../3_Develop/5_Prepare%20Launchpad.md)
+  - [Integrate](../3_Develop/6_Integrate.md)
+  - [Add to Launchpad](../3_Develop/7_Add%20to%20Launchpad.md)
  
 <!-- disco-toc-end -->
