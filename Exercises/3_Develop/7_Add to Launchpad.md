@@ -6,11 +6,12 @@ Finally you need to add your App to the Launchpad group and role.
   
 2. Click on the **Content Manager** and on tab **Content Explorer** tab, and select **HTML5 Apps** to see the list of HTML5 applications you have in your **HTML5 Applications** (the Managed Application Router provided by SAP Launchpad).
   
-     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/contentmanager.png)
+     ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/contentmanager_explorer1.png)
  
 You see the ID of the deployed HTML5 apps and the view name.
 
-3. Select your HTML5 application which you see in the list and click the button <strong>+Add</strong>.
+3. Select your HTML5 application which you see in the list and click the button <strong>+Add</strong>.!!! 
+   ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/html5app.png)
   
      ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/addhtml5app.png)
 
