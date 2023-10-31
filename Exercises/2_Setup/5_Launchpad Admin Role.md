@@ -27,7 +27,7 @@ Note that the &ldquo;Launchpad_Admin&rdquo; role was automatically created with 
 
       
 7. Under the <strong>Users</strong> tab, enter your email in both the <strong>ID</strong> and the <strong>E-Mail</strong> fields. 
-Keep the the default identity provider. Then click <strong>Save</strong>.
+Keep the default identity provider. Then click <strong>Save</strong>.
 
 
      ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Add_emails.png)
