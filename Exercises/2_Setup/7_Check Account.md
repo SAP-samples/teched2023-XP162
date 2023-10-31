@@ -10,8 +10,8 @@ In your new subaccount check the following:
      - SAP Build Work Zone, standard edition
 2. Click on **SAP Business Application Studio** (#4 on the figure). This will open SAP Business Application Studio.
 3. Click on **SAP Build Work Zone, standard edition** (#5 on the figure). This will open the launchpad site directory.<br>
-Note: If you get the error message "Access Denied". Your user has not been assigned the role collection "Launchpad_Admin". See card "Add yourself to the Launchpad Admin role".
-Goto "Role Collections", click on **"Launchpad_Admin**" and assign the email address of your user.
+
+Note: If you get the error message "Access Denied". Your user has not been assigned the role collection "Launchpad_Admin". See card "5_Launchpad Admin role". Goto "Role Collections", click on **"Launchpad_Admin**" and assign the email address of your user.
   
 ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/checks.png)
   
