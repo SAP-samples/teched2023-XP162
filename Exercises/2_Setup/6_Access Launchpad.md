@@ -1,6 +1,6 @@
 **Access the SAP Build Work Zone, standard edition service**
 
-You are now ready to access the SAP Build Work Zone, standard edition as admin/ site manager of the launchpad.
+You are now ready to access the SAP Build Work Zone, standard edition as an admin or site manager of the launchpad.
 
 
 1. From the side panel, click **Instances and Subscriptions** under **Services**.
