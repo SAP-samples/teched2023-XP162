@@ -2,7 +2,7 @@ The goal of this mission is to create a simple 'Hello World' application using S
 
 This mission includes the following steps:
 
-+ **Setup of SAP BTP account and subaccount** - to give you access the to the SAP BTP Cockpit administration interface
++ **Setup of SAP BTP account and subaccount** - to give you access to the SAP BTP Cockpit administration interface
 
 + **Setup of SAP Build Work Zone, standard edition which includes SAP Launchpad** - to give you access, to create and configure the central point of entry for your users
 
