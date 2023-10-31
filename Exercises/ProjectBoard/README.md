@@ -2,7 +2,7 @@
 
 <!-- disco-toc-start -->
 - Setup Phase
-  - [Story](1_Discover/1_Story.md)
+  - [Story](../1_Discover/1_Story.md)
   - [Setup SAP BTP and SAP SuccessFactors connectivity and extensibility](../mission/01-SetupSAPBusinessTechnologyPlatform)<!-- dc-card: {"label":  ["xyz","abc"],"cardName":"Custom name","boosterId":"cos"} dc-card -->
   - [Clone the GitHub repository and adapt the configuration to your environment](../mission/04-CloneTheGitHubRepositoryAndAdaptTheConfigurationToYourEnvironment)
   - [Deploy CAP Application to Cloud Foundry and HANA Cloud](../mission/05-DeployCAPApplicationToCloudFoundryAndHANACloud)
