@@ -20,7 +20,7 @@
   - [Prepare Launchpad](../3_Develop/5_Prepare%20Launchpad.md)
   - [Integrate](../3_Develop/6_Integrate.md)
   - [Add to Launchpad](../3_Develop/7_Add%20to%20Launchpad.md)
-- Discover Phase
+- Complete Phase
   - [Explore Other Missions](../4_Complete/1_Explore%20Other%20Missions.md)
   - [Browse TechEd Catalog](../4_Complete/2_Browse%20TechEd%20Catalog.md)
   - [Feedback](../4_Complete/3_Feedback.md)
