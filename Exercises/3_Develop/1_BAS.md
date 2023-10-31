@@ -65,7 +65,7 @@ A connection of your SAP Business Application Studio to your Cloud Foundry subac
 
  ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Command_Palette.png)
 
-2. Search or Select CF: Login to Cloud Foundry.
+2. Search and then Select CF: Login to Cloud Foundry.
 
  ![](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/Images/Login_CF.png)
  
