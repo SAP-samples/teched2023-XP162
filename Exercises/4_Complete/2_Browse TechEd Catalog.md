@@ -25,4 +25,4 @@ Browse through the <a href="https://go2.events.sap.com/TechEd2023/agb/go/agendab
 
 ## Summary
 
-You have completed the hands-on XP162. Please continue to provide - [3_Feedback](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/4_Complete/3_Feedback.md)
+You have completed the hands-on XP162. Go to next card & give feedback if in GitHub, please continue to provide - [3_Feedback](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/4_Complete/3_Feedback.md)
