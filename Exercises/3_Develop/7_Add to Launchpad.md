@@ -42,4 +42,4 @@ You see the ID of the deployed HTML5 apps and the view name.
 
 ## Summary 
 
-You have successfully added your App to the Launchpad group and role. Continue to - [1_Explore Other Missions](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/4_Complete/1_Explore%20Other%20Missions.md)
+You have successfully added your App to the Launchpad group and role. Go to the next card or if in GitHub Continue to - [1_Explore Other Missions](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/4_Complete/1_Explore%20Other%20Missions.md)
