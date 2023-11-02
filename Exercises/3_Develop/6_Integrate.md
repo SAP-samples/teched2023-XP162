@@ -26,4 +26,4 @@ You will be forwarded to the "Site Editor" showing the Settings of the created H
 
 ## Summary 
 
-You have successfully created a Launchpad Site, continue to - [7_Add to Launchpad](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/7_Add%20to%20Launchpad.md)
+You have successfully created a Launchpad Site, go to the next card or if in GitHub continue to - [7_Add to Launchpad](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/7_Add%20to%20Launchpad.md)
