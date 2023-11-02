@@ -30,4 +30,4 @@ You will see the changes in the application preview accordingly: "Hello TechEd" 
 
 ## Summary
 
-You have now successfully viewed your application, let's build and deploy, continue to - [4_Build](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/4_Build.md)
+You have now successfully viewed your application, let's build and deploy, go to the next card or if in GitHub continue to - [4_Build](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/4_Build.md)
