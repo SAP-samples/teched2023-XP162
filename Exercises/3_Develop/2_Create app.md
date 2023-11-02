@@ -1,4 +1,4 @@
-**Create an SAP Fiori Application with "Start from template"**
+![image](https://github.com/SAP-samples/teched2023-XP162/assets/17977043/f6cca983-f354-4614-ab3f-ec9a014cdba6)**Create an SAP Fiori Application with "Start from template"**
 
 1. Click on **New Project from Template** in the Welcome tab to create the project.
 Alternative: Open the menu in the top left corner and go to **View > Command Palette ...** and search for ">new project". Select the command **SAP Business Application Studio: New Project from Template**
@@ -86,5 +86,5 @@ Title: **showhelloworld**
 
 ## Summary
 
-You have now successfully created the application, continue to - [3_Test](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/3_Test.md)
+You have now successfully created the application, go to the next card or if in GitHub continue to - [3_Test](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/3_Test.md)
 
