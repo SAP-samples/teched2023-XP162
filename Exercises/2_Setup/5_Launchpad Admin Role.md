@@ -40,4 +40,4 @@ You've now been assigned to the <code>Launchpad_Admin</code> role collection and
 
 ## Summary
 
-Your user now has required roles to access SAP Build Work Zone, standard edition, continue to - [6_Access Launchpad](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/6_Access%20Launchpad.md)
+Your user now has required roles to access SAP Build Work Zone, standard edition, go to the next card or if in GitHub continue to - [6_Access Launchpad](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/6_Access%20Launchpad.md)
