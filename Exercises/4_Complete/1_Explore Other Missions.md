@@ -17,4 +17,4 @@
 
 ## Summary
 
-You have now seen other missions that can help you get more confidence with SAP Discovery Center. Continue to - [2_Browse TechEd Catalog](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/4_Complete/2_Browse%20TechEd%20Catalog.md)
+You have now seen other missions that can help you get more confidence with SAP Discovery Center. Go to the next card or if in GitHub Continue to - [2_Browse TechEd Catalog](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/4_Complete/2_Browse%20TechEd%20Catalog.md)
