@@ -45,4 +45,4 @@ Your trial subaccount and Cloud Foundry Target will be selected automatically as
 
 ## Summary
 
-You have successfully build and deployed your application, continue to - [5_Prepare Launchpad](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/5_Prepare%20Launchpad.md)
+You have successfully build and deployed your application, go to the next card or if in GitHub continue to - [5_Prepare Launchpad](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/5_Prepare%20Launchpad.md)
