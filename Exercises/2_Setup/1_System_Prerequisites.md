@@ -9,5 +9,5 @@ You start with creating the SAP BTP trial account and setting up the services me
 
 ## Summary
 
-You've now understood system pre-requisites continue to - [2_Register for SAP BTP](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/2_Register%20for%20SAP%20BTP.md)
+You've now understood system pre-requisites go to the next card or if in GitHub continue to - [2_Register for SAP BTP](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/2_Register%20for%20SAP%20BTP.md)
 
