@@ -88,4 +88,4 @@ A connection of your SAP Business Application Studio to your Cloud Foundry subac
 
 ## Summary
 
-You've now successfully connected your SAP Business Application Studio, dev space and your SAP BTP Cloud Foundry space. Continue to - [2_Create app](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/2_Create%20app.md)
+You've now successfully connected your SAP Business Application Studio, dev space and your SAP BTP Cloud Foundry space. Go to the next card or if in GitHub Continue to - [2_Create app](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/2_Create%20app.md)
