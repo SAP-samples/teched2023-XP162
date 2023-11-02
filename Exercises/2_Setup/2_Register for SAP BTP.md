@@ -21,4 +21,4 @@ If you don not need to register with sap.com, click on "Log in" on the right.
 
 ## Summary
 
-You have now registered for SAP BTP Trial account, continue to - [3_Setup Trial](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/3_Setup%20Trial.md)
+You have now registered for SAP BTP Trial account, go to the next card or if in GitHub continue to - [3_Setup Trial](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/3_Setup%20Trial.md)
