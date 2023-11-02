@@ -40,4 +40,4 @@ SAP Business Application Studio (the next generation of SAP Web IDE) is a powerf
 
 ## Summary 
 
-Now you know the services used in the hands-on, continue to - [2_Setup_1_System_Prerequisites](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/1_System_Prerequisites.md)
+Now you know the services used in the hands-on, go to the next card or if in GitHub continue to - [2_Setup_1_System_Prerequisites](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/1_System_Prerequisites.md)
