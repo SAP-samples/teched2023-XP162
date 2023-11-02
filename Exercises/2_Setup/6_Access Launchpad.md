@@ -18,4 +18,4 @@ The SAP Build Work Zone, standard edition service opens with the Site Directory 
 
 ## Summary
 
-You now have access to SAP Build Work Zone, standard edition continue to - [7_Check Account](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/7_Check%20Account.md)
+You now have access to SAP Build Work Zone, standard edition go to the next card or if in GitHub continue to - [7_Check Account](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/2_Setup/7_Check%20Account.md)
