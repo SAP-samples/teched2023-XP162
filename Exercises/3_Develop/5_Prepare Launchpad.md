@@ -34,4 +34,4 @@ If you get the error message "Access Denied". Your user has not been assigned th
 
 ## Summary
 
-You have configured your HTML5 Application for the Launchpad, continue to - [6_Integrate](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/6_Integrate.md)
+You have configured your HTML5 Application for the Launchpad, go to the next card or if in GitHub continue to - [6_Integrate](https://github.com/SAP-samples/teched2023-XP162/blob/main/Exercises/3_Develop/6_Integrate.md)
